@@ -6,3 +6,12 @@ Pizza de Juan Henriquez
 5. Meter la masa y los ingredientes juntos al horno
 6. Bañar la pizza en picante
 7. Disfrutar
+Pizza Gabriela Pineda
+1. Pizza Hawaina
+2. ingredientes
+3. Harina
+4. levadura
+5. Azucar.
+6. Tomate
+8. Piña
+9. Jamon
