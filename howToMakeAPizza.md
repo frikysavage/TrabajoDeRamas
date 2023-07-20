@@ -14,15 +14,7 @@ Pizza de Juan Henriquez
 2. Comprar ingredientes.
 3. Picar todo (aguacate, cebolla, jalapeños, chiles, carne, chorizo, etc...)
 4. Preparar la masa
-5. Meter la masa y los ingredientes juntos al horno
-6. Bañar la pizza en picante
-7. Disfrutar
-Pizza de Gabriela Pineda
-1. Pizza Hawaina
-2. ingredientes
-3. Harina
-4. levadura
-5. Azucar.
-6. Tomate
-8. Piña
-9. Jamon
+5. Meter la pizza al horno 
+6. Esperar 20 min
+7. Servir la pizza
+8. Disfrutar
