@@ -3,4 +3,6 @@ Pizza de Daniel Silva
 2. Lavar los vegetales
 3. Hacer la coccion de los vegetales
 4. Meter la pizza al horno
-5. Servir y disfrutar
+5. Esperar 20 min
+6. Servir la pizza
+7. Disfrutar
