@@ -1,34 +1,9 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Pizza de Daniel Silva
-1. Preparar la mezcla de la masa
-2. Lavar los vegetales
-3. Hacer la coccion de los vegetales
-4. Meter la pizza al horno
-5. Esperar 20 min
-6. Servir la pizza
-7. Disfrutar
+1. Comprar ingredientes
+2. ingredientes
+3. Lavar los vegetales y piña
+4. Preparar la masa
+5. Meter la pizza al horno 
+6. Esperar 20 min
+7. Servir la pizza
+8. Disfrutar
